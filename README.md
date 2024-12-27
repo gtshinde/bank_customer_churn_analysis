@@ -1,6 +1,3 @@
-# Creating the README.md file content for the churn analysis project
-
-
 # Churn Analysis Project for ABC Bank
 
 ## Executive Summary
