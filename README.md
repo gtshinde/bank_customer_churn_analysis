@@ -85,6 +85,9 @@ Any customer who does not fall into the above two categories is considered "Low 
 
 ![alt text](pg1.png)
 
+![alt text](<Screenshot 2025-02-04 164737.png>)
+
+![alt text](<Screenshot 2025-02-06 001344.png>)
 ---
 ---
 ## Key Insights
