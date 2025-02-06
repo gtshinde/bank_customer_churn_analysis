@@ -1,7 +1,7 @@
-# Churn Analysis Project for ABC Bank
+# Churn Analysis Project for CBC Bank
 
 ## Executive Summary
-This project analyzes customer churn at ABC Bank to identify key factors influencing churn and develop actionable insights for retention strategies. Leveraging tools like Excel, Power BI, and GitHub, we provide an in-depth exploration of customer demographics, behavior, and satisfaction to drive business improvements.
+This project analyzes customer churn at CBC Bank to identify key factors influencing churn and develop actionable insights for retention strategies. Leveraging tools like Excel, Power BI, and GitHub, we provide an in-depth exploration of customer demographics, behavior, and satisfaction to drive business improvements.
 
 ---
 
@@ -66,6 +66,13 @@ OR their Balance is between 10,000 and 49,999 (inclusive).
 Any customer who does not fall into the above two categories is considered "Low Risk."
 
 ---
+
+## Analysis Process
+1. **Data Cleaning**: Ensured consistency and handled missing values.
+2. **Risk Segmentation**: Classified customers into High, Medium, and Low churn risk levels.
+3. **Churn Drivers Identification**: Analyzed correlations between churn and features like CreditScore, Tenure, and Satisfaction Score.
+4. **Visualization**: Built interactive charts for actionable insights.
+---
 ## Dashboard Features
 - **Customer Distribution by Risk Level**: High, Medium, Low.
 - **Churn Analysis by Geography**: Regional trends and hotspots.
@@ -73,15 +80,12 @@ Any customer who does not fall into the above two categories is considered "Low 
 - **Demographics Breakdown**: Age, gender, and salary trends.
 - **Revenue Impact Assessment**: Financial losses due to churn.
 - **Customer Feedback Analysis**: Satisfaction scores and complaint patterns.
+---
+## Dashboard Snapshot
+
+![alt text](pg1.png)
 
 ---
-
-## Analysis Process
-1. **Data Cleaning**: Ensured consistency and handled missing values.
-2. **Risk Segmentation**: Classified customers into High, Medium, and Low churn risk levels.
-3. **Churn Drivers Identification**: Analyzed correlations between churn and features like CreditScore, Tenure, and Satisfaction Score.
-4. **Visualization**: Built interactive charts for actionable insights.
-
 ---
 ## Key Insights
 ### 1. **Customer Churn Risk**: 
